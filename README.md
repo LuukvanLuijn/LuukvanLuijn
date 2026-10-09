@@ -1,3 +1,8 @@
+# Discord
+<a href="https://discord.com/users/1155061926557143110"><img src="https://lanyard.cnrad.dev/api/1155061926557143110?bg=151b23&idleMessage=meow" /></a>
+
+-----
+ 
 # I play piano
 
 ## I can play these pieces
@@ -6,6 +11,7 @@
 - Passacaglia
 - One summer's day
 - Snowfield
+- in the pool
 
 ## I'm currently learning
 - Rêverie
