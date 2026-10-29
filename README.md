@@ -11,7 +11,8 @@
 - Passacaglia
 - One summer's day
 - Snowfield
-- in the pool
+- In the pool
+- Red swan
 
 ## I'm currently learning
 - Rêverie
