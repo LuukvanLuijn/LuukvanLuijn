@@ -3,7 +3,7 @@
 
 -----
 # Visit my friends on Github
-[Charli](https://github.com/CharliVanNood)
+[Charli](https://github.com/CharliVanNood)  
 [Rick](https://share.google/XoCe7giLjLG2hgfR0)
 -----
  
