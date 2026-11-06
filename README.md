@@ -2,8 +2,9 @@
 <a href="https://discord.com/users/1155061926557143110"><img src="https://lanyard.cnrad.dev/api/1155061926557143110?bg=151b23&idleMessage=meow" /></a>
 
 -----
-# Visit my only friend on github
+# Visit my friends on Github
 [Charli](https://github.com/CharliVanNood)
+[Rick](https://share.google/XoCe7giLjLG2hgfR0)
 -----
  
 # I play piano
